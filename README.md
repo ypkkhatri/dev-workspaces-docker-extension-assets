@@ -1,0 +1,1 @@
+# dev-workspaces-docker-extension-assets
